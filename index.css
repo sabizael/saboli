@@ -8,7 +8,7 @@ ul {
     justify-content: space-between;
     list-style-type: none;
     align-items: center;s
-    padding: 16px;
+    padding: 1px;
 }
 
 a {
@@ -59,7 +59,7 @@ footer p{
 }
 
 .container{
-    padding: 0px 10px;
+    padding: 0px 0px;
 }
 
 nav a:hover{
@@ -89,8 +89,8 @@ main img {
 
 section {
     background-color: rgb(239, 239, 239);
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 1px;
+    margin-bottom: 1px;
     text-align: center;
 }
  main p {
